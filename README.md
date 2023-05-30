@@ -50,14 +50,14 @@ This is the magic I used to get macOS Monterey running on the Dell Latitude 5590
 **CPU**     Intel Kaby lake -r i7-8650u  
 **GPU**     Intel UHD graphics 620  
 **RAM**     16GB DDR4-2400 ram 
-**SSD**     Seagate baraccuda P5 500GB NVME SSD
-**WIFI**    Intel AC8265 m.2 wifi 
-**Ethernet** Intel i219-LM PCI Express Gigabit Ethernet Controller  
-**Audio**   Realtek ALC3246 HD audio and Intel Sunrise point HDMI audio  
-**Input**  PS/2 Keyboard and Trackpad Buttons, Alps I2C Trackpad
+**SSD**     Seagate baraccuda P5 500GB NVME SSD 
+**WIFI**    Intel AC8265 m.2 wifi  
+**Ethernet** Intel i219-LM PCI Express Gigabit Ethernet Controller   
+**Audio**   Realtek ALC3246 HD audio and Intel Sunrise point HDMI audio   
+**Input**  PS/2 Keyboard and Trackpad Buttons, Alps I2C Trackpad 
 **Webcam**   Embedded USB webcam (built-in)  
-**Screen**   15-inch screen, 1920x1080 
-**BIOS**  Bios revision 1.27 (Latest)
+**Screen**   15-inch screen, 1920x1080  
+**BIOS**  Bios revision 1.27 (Latest) 
  
 
 **Credits**
