@@ -38,7 +38,7 @@ This is the magic I used to get macOS Monterey running on the Dell Latitude 5590
 
 - You must understand how opencore is configured before downloading.  (important!)  
 
-- Brightness Keys require a special SSDT to load. THis patches the BRT6 method of the laptop to allow us to notify macOS of brightness events. The NOTIFY code is specific to every laptop model and can be found using evtest on the primary keyboard and pressing the brightness keys.
+- Brightness Keys require a special SSDT to load. This patches the BRT6 method of the firmware to notify macOS of brightness events. The NOTIFY code is specific to every laptop model and can be found using evtest (when booted into linux) on the primary keyboard and pressing the brightness keys.
 
 - Any BRT6 patch must be loaded before SSDT-XOSI. ACPI load order can be defined in your config.plist.
 
